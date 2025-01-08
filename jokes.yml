@@ -1,0 +1,1281 @@
+---
+
+- name: joke
+  desc: Ambulances and women have a lot in common.  They both make a lot of noise to let you know they are comimg
+  tags: women sex
+  clean: false
+- name: joke
+  desc: What does a pizza boy and a gynecologist have in common?  They both get to smell it, but they don't get to taste it
+  tags: 
+    - women 
+    - sex
+  clean: false
+- name: joke
+  desc: My doctor told me I was going deaf.  That was hard to hear.
+  tags: 
+    - doctor 
+    - deaf
+  clean: true
+
+- name: joke
+  desc: Women say men have trust issues, but when you put your most prized possession in between a set of sharp teeth, that's trust! 
+  tags:
+    - women
+    - sex
+  clean: false
+
+- name: joke
+  desc: What do you call the space between fake boobs?  Silicon Valley
+  tags:
+    - women
+    - sex
+    - boobs 
+  clean: false
+
+- name: joke
+  desc: A snail slithers up to the bar on NY's Eve and asks for a drink.  The bartender says yuck, a snail, and flicks him out the window.  A year goes by and it's NY's Eve again and a snail slithers up to the bar and says what the fuck did you do that for?  
+  tags: 
+    - bar
+    - snail
+  clean: yes
+
+- name: joke
+  desc: Guy goes to the doctor, doc says you’re in bad shape, I don’t think you’re gonna make it.  He says anything I can do?  Yes, the doctor says, take 3-4 mud baths a day.  How’s that going to help me?  It’ll get you used to the dirt.  
+  tags:
+    - doctor
+    clean: true
+
+- name: joke
+  desc: I quit my job at the helium factory.  I won’t be spoken to in that tone! 
+  tags: 
+    - corny
+  clean: true 
+
+
+- name: joke
+  desc: Inflation has gotten so bad.  When I was a kid, I used to be able to go down to the little store and get a pop, 3 bags of chips, 2 candy bars and a M.A.D. magazine for a dollar.  Nowadays there’s cameras everywhere.  
+  tags: 
+    - corny
+  clean: true
+
+- name: joke
+  desc: Do you know how Rome was split in 2?  With a pair of Caesars
+  tags: 
+    - corny
+  clean: true
+
+
+- name: joke
+  desc: My grief counselor died.  He was so good I don’t even care
+  tags: 
+    - death
+    - counselor
+    - corny
+  clean: true
+
+
+- name: joke
+  desc: Guy walks into a bar and says hey, do you know where I can get a toupee?  Bartender says not off the top of my head
+  tags:
+    - toupee
+    - corny
+    - bar
+  clean: true 
+
+
+- name: joke
+  desc: What’s the difference between a tire and 365 used condoms?  One is a goodyear and the other one is a great year!  
+  tags:
+    - sex
+  clean: false
+
+- name: joke
+  desc: What does a Chinese Janitor say when he jumps out of the closet?  Supplies! 
+  tags:
+    - chinese
+    - language
+  clean: true
+
+
+- name: joke
+  desc: A woman stopped into a pharmacy and asked the pharmacist about viagra for her husband.  He gave her all the relavent details about taking viagra and its side effects.  Just one more question she said.  Can you get it over the counter?  Only if I take a double dose he said.  
+  tags: 
+    - sex
+    - pharmacy
+    - doctor 
+    - viagra
+  clean: false
+
+
+
+- name: joke
+  desc: A woman went into a bar and ordered a drink on the rocks.  The bartender hands it to her and she complains hey, you used your bare hands on the ice!  That’s disgusting I don’t want your germs!  Make me another drink please.  The bartender said lady, I can assure you that my hands are very clean, but I understand your concern so he makes another drink and puts the ice in with ice tongues.  A little bit later the lady sees a string hanging from the bartender’s zipper.  So she asks him what is the string for?  The bartender says well, when I go to the men’s room, I pull on the string to pull my zipper down.  I told you, I keep my hands very clean.  Well then how do you whip it out she asks the bartender.  Well, he says, that’s what the ice tongues are for 
+  tags: 
+    - bar
+    - sex
+    - tongues
+  clean: false
+
+- name: joke
+  desc: My wife dropped the laundry basket.  She’s still mad at me because I just stood there and .. watched it unfold.  
+  tags; 
+    - corny
+    - wife
+  clean: true
+
+- name: joke
+  desc: I could never understand why people disliked vegans so much.  I’ve never had any beef with them 
+  tags: 
+    - corny
+  clean: true
+
+- name: joke
+  desc: I went to Egypt and met this guy who said I could buy any monument for $500.  Turns out it was a pyramid scheme 
+  tags: 
+    - corny
+  clean: true
+
+- name: joke
+  desc: Someone threw a beer at Trump at his rally.  He’s okay.  It was a draft so he easily dodged it
+  tags: 
+    - corny
+    - trump
+  clean: true
+
+- name: joke
+  desc: Have you heard of the blind cyclops brothers?  Neither have eye
+  tags: 
+    - corny
+  clean: true
+
+- name: joke
+  desc: Why did service stations start charging $ to fill up your tires with air?  Inflation! 
+  tags: 
+    - corny
+  clean: true
+
+- name: joke
+  desc: A man sees an add for a gynecologist’s assistant and decides to inquire.  Can you tell me more details about the job?  Sure, you basically get women ready for their appointments with the doctor.  This involves getting them undressed, helping them lay down and then washing their private regions.  Once that is done you rub in a little oil so that they are ready for the exam.  The job pays $75k/year.  But you’re going to have to go to NY on the other side of the country.  Why is that?  Is that where the job is?  No, that’s where the end of the line is right now 
+  tags: 
+    - corny
+    - sex
+    - women 
+  clean: false
+
+- name: joke
+  desc: I was once in a band called The Hinges.  We opened for The Doors
+  tags: 
+    - corny
+  clean: true
+
+- name: joke
+  desc: The boss is threatening to fire the employee with the worst posture.  I have a hunch it might be me.  
+  tags: 
+    - corny
+  clean: true
+
+
+- name: joke
+  desc: I’m organizing a charity ball next weekend for people who are having trouble reaching orgasm.  Let me know if you can’t come 
+  tags: 
+    - sex 
+    - corny
+  clean: false
+
+- name: joke
+  desc: I hate it when people get all snobby and stuff about Mozart when they have never even seen one of his paintings 
+  tags: 
+    - corny
+  clean: true
+
+- name: joke
+  desc: Scientists got bored after watching the earth turn for an hour so they called it a day 
+  tags: 
+    - corny
+    - science
+  clean: true
+
+- name: joke
+  desc: I’m dating a female boxer.  Our first date was at a restaurant.  She went for the ribs
+  tags: 
+    - women
+    - corny
+  clean: true
+
+- name: joke
+  desc: I offered my neighbor $20 to try out her new stair lift.  I think she’s going to take me up on it
+  tags: 
+    - corny
+  clean: true
+
+- name: joke
+  desc: My girlfriend complains that I don’t smile anymore.  She’s the one who wanted a serious relationship 
+  tags: 
+    - corny
+    - girlfriend
+  clean: true
+
+- name: joke
+  desc: At the airport my wife tripped and fell right into the luggage carousel and bumped her head.  Thankfully she came around 
+  tags: 
+    - wife
+    - corny
+  clean: true
+
+- name: joke
+  desc: I joined a nudist colony.  Yeah the first few days were the hardest 
+  tags: 
+    - nudist
+    - corny
+  clean: false
+
+- name: joke
+  desc: My wife got her credit card stolen but the new guy spends less so ima let it ride 
+  tags: 
+    - wife
+    - corny
+  clean: true
+
+- name: joke
+  desc: Poop jokes aren’t my favorite but they are a solid number 2
+  tags: 
+    - poop 
+    - corny
+  clean: true
+
+- name: joke
+  desc: What’s the difference between a pickpocket and a peeping Tom?  One snatches your watch and the other watches your snatch 
+  tags: 
+    - corny
+    - sex
+    - women
+  clean: false
+
+- name: joke
+  desc: A man walks into his therapist’s office with cellophane pants on.  The therapist says I can clearly see your nuts
+  tags: 
+    - corny
+    - therapist
+    - sex
+  clean: false
+
+- name: joke
+  desc: My son got a face tattoo yesterday.  Go ahead and bottle feed.  It doesn’t matter 
+  tags: 
+    - tatoo 
+  clean: true
+
+- name: joke
+  desc: Most bald men own a comb.  They just can’t part with it.  
+  tags: 
+    - corny
+  clean: true
+
+- name: joke
+  desc: I ended up losing bar trivia last night by one point.  The question was where do women have the curliest hair?  Fiji.  The answer was Fiji.  
+  tags: 
+    - bar 
+    - sex
+    - women
+  clean: false
+
+- name: joke
+  desc: I called the incontinence hotline.  They asked if I could hold. 
+  tags: 
+    - medical
+    - doctor 
+    - corny
+  clean: true
+
+
+- name: joke
+  desc: Did you hear about the toilets that go stolen from the police station?  Yeah the cops had nothing to go on 
+  tags: 
+    - corny
+    - police
+  clean: true
+
+
+- name: joke
+  desc: The more I hear about inverse proportion the less I like it
+  tags: 
+    - math
+    - corny
+  clean: true
+
+
+- name: joke
+  desc: I’m not in the mile high club and I don’t give a flying fuck
+  tags: 
+    - corny
+  clean: false
+
+
+- name: joke
+  desc: Guy goes to Ireland with his golf clubs.  Drives to a course in Kilarney and asks the guy behind the counter if there’s anyone who would play with him.  He gets introduced to Paddy.  Paddy says sure, I’ll play a round with you.  Meet me here tomorrow at 9am but I might be a half an hour late.  The next morning Paddy shows up at 9am with left handed clubs.  They play 18 holes and Paddy wins easily.  The American says can I get a rematch?  Sure says Paddy, meet me here tomorrow morning at 9am but I might be a half an hour late.  The next morning Paddy shows up at 9am with right handed clubs.  They play and Paddy wins easily again.  The American says you beat me with left and right handed clubs!   How is it you decide which clubs to use?  Well Paddy explained, when I wake up in the morning if my wife is laying on her left side, I use the left handed clubs, and if she’s laying on her right side, I use the right handed clubs.  Oh, I see said the American.  But what if she’s lying on her back?  Then I’ll be a half an hour late.  
+  tags: 
+    - golf
+    - divorce
+  clean: false
+
+- name: joke
+  desc: I’ve been telling my jokes in sign language lately.  That way I know they’ve never heard them before 
+  tags: 
+    - corny
+    - blind 
+  clean: true
+
+- name: joke
+  desc: I was sitting on the toilet angry and late for work and thought to myself I don’t have time for this shit.  
+  tags: 
+    - bathroom 
+    - corny
+  clean: false
+
+left off here
+
+When I was in college the fraternity didn’t accept me because I was circumcised.  You had to be a complete dick. 
+
+—-
+
+
+I’ve been struggling with my waltz moves.  Yeah it’s been two steps forward, one step back 
+
+—-
+
+My daughter was upset she didn’t know what the opposite of Armageddon.  I said don’t worry it’s not the end of the world 
+
+—-
+
+
+How do you make antifreeze?
+You take away her blanket 
+
+—-
+
+I didn’t know Sylvester Stallone was on his 3rd marriage.  I guess the first one was rocky and the second one was rocky too
+
+—-
+
+I was at the airport and a woman fell asleep on the baggage carrier.  She’s coming around now 
+
+—-
+
+I was told I could look at the eclipse through a colander.  I tried it but it strained my eyes 
+
+—-
+
+My girlfriend borrowed $300 from me.  A few years later wye broke up and  she returned the $300.   Yeah , I lost interest in that relationship 
+
+—-
+
+
+I just bought a book called 101 ways to get glue off your hands.  It’s dreadful but I can’t put it down.  
+
+—-
+
+A man tried to sell me a coffin yesterday.  I said that’s the last thing I need 
+
+—-
+
+I called up my landlord and said I gotta leak in my sink.  He said go ahead I’m not judging.
+
+—-
+
+ I told some buddies that my first girlfriend had acute angina... They asked if I had any pics!??
+
+—-
+
+I’ve been trying to break up with my optician girlfriend but it’s really hard.  Every time I tell her I can’t see her anymore she moves a foot closer and says okay how about now? 
+
+—-
+
+My friend’s wife went out to get some milk and never returned.  I asked him how he was coping.  He said not bad.  I’ve been using the powdered stuff 
+
+—-
+
+I was in a taxi today and my driver was talking about how much he loved his job.  I’m my own boss.  Nobody tells me what to do.  I said turn left here. 
+
+—-
+
+The man who invented throat lozenges died last week.  There was no coffin at his funeral 
+
+—-
+
+Went to the doctor and he said don’t eat anything fatty. 
+
+I said you mean like hamburgers?  
+
+He said no, just don’t eat anything 
+
+—-
+
+My wife said if I didn’t stop singing I’m A Believer that she would leave me.  I thought for sure she was joking.  But then I saw her face.
+
+—-
+
+I lost 3 fingers on my right hand.  I asked my doctor if I’d still be able to write with it.  He said it’s possible, but I wouldn’t count on it 
+
+—-
+
+Did you know that hummingbirds are just regular birds that can’t remember the lyrics? 
+
+—- 
+
+My girlfriend poked me in the eyes.  I stopped seeing her for a while 
+
+—-
+
+I opened a gym.  Yeah the instructors go door to door talking about the benefits of joining it.  I’m calling it Jehovah’s Fitness 
+
+ —-
+
+My wife turned to me and said “I’ve been talkin to you for 5 minutes and you have yawned 6 times.  That’s very rude.”  I said “those were not yawns.  I was trying to speak! “
+
+—-
+
+Sad news.  I broke up with my girlfriend Lorraine because I am seeing a new girl named Claire Lee.  So I can see Claire Lee now Lorraine is gone 
+
+
+—-
+
+
+I only got two, maybe three good Motown puns left in me.  Four tops
+
+—-
+
+I’m not buying anything with velcro ever again.  Total rip off
+
+—-
+
+Waiter:  Do you wanna box for your leftovers?  Me:  No but I will wrestle you for them 
+
+—-
+
+My wife asked if she had any annoying habits and then got all pissed off during my power point presentation 
+
+—-
+
+A new scientific study says frequent masturbation can cause low IQ but I say they don’t science good.  
+
+—-
+
+A guy walks into a bar.  “Is everything okay?” the bartender asks.  
+
+My wife and I got into an argument and she said she wasn’t going to talk to me for a month.  
+
+Well maybe that’s a good thing?  A little peace and quiet?  Time to reflect? 
+
+Yeah but today is the last day 
+
+—-
+
+What happens when you eat aluminum foil?  You sheet metal 
+
+—-
+
+4/5 people, at some point in their lives has suffered from diarrhea. There’s evidently 1 person who enjoyed it 
+
+—-
+
+Lots of openings in the field of proctology 
+
+—-
+
+What do people in electric cars listen to?  AC/DC or something current 
+
+—-
+
+my wife said i ruined her birthday.  but i didn’t even know it was her birthday! 
+
+——-
+
+I was just at my prostrate exam.  Got the thumbs up!  
+
+—-
+
+The furniture store salesman told me the sofa would seat 5 people without any problems.  I said where am I going to find 5 people without any problems?
+
+—- 
+
+I didn’t want to believe that my dad was stealing from his job as a road worker.  But then I got home and all the signs were there 
+
+—-
+
+I married my wife for her looks.  Though not the ones she’s been giving me lately 
+
+—-
+
+Why are lawyers buried 12 feet under?  Because deep dive they are really good people.  
+
+—-
+
+I get how you get Bob from Robert and Bill from William but how do you get Dick from Richard?  Ask him nicely 
+
+—-
+
+Know what you call a group of Karens?  A homeowner’s association 
+
+—-
+
+My wife’s leaving me because she said I was obsessed with astrology.  I said what planet are you from?  
+
+—-
+
+Did you know the majority of archeologists are women?  They have a natural ability to dig up the past 
+
+—-
+
+That awkward moment when someone knocks on the door of your bathroom stall.  What to say?  Try I’ve been waiting for you.  
+
+—-
+
+Did you hear about the two thieves who stole a calendar?  Yeah, they each got 6 months 
+
+—-
+
+Fastest man 
+Tallest man
+Smallest dick
+
+Measure, send to guiness book of world records.  
+
+2 weeks later the first 2 pass
+Third guy says who the hell is this doug person <insert name >
+
+—-
+
+My boss:  You are the worst train operator ever.  How many times have you derailed in the past year?  
+
+Me:  I don’t know I’ve lost track
+
+—-
+
+My mom found out I replaced her bed with a trampoline.  She hit the roof!
+
+—-
+
+I have a friend who says he hates living in the Midwest.   He’s in a constant state of Missouri 
+
+—-
+
+Argentina is very cold.  In fact it’s borderline Chile
+
+—-
+
+My wife said my salads tend to be on the dry side.  That’s something that definitely needs addressing.  
+
+—-
+
+In order to start a zoo you need at least 2 pandas, a grizzly and a polar.  It’s the bear minimum 
+
+—-
+
+Did you know a normal ejaculation has 65TB of DNA information in it?  Yeah, that’s a lot of information to swallow 
+
+—-
+
+A vegan and a vegetarian are jumping off a cliff to see who hits the bottom first.  Who wins?  Society 
+
+—-
+
+I’m writing a book on reverse psychology.  Yeah, please don’t buy it
+
+—-
+
+My wife says I’m getting fat. 
+
+Oh? 
+
+Yeah.  But in my defense I’ve had a lot on my plate lately 
+
+—-
+
+Did you know that insurance companies are warning campers?  Yeah, if your tent is stolen at night you won’t be covered. 
+
+—-
+
+What did the atheist beaver say as he entered the gates of hell?  Well I’ll be dammed!
+
+—-
+
+I was at the bar and my wife called and told me if you’re not home in 10 minutes I’m giving this hot meal I cooked to the dog!  Boy I got myself home in 5 minutes!  Hate to see anything happen to Rover.  
+
+—-
+
+Eye Dr:  Your test results just came back
+Me:  Can I see them?
+Eye Dr:  Probably not 
+
+—-
+
+I told my wife her underwear is way too tight and too revealing.  She said then wear your own.  
+
+—- 
+
+Female see interviewer: I have 3 openings
+Guy: I know 
+
+—- 
+
+What did the bra say to the hat? 
+You go on ahead, I’ll give these two a lift
+
+—-
+
+Brad Upton 
+
+—-
+
+I told my friend I liked Beyonce. 
+He said whatever floats your boat 
+I said no that’s bouyancy 
+
+—-
+
+Lawyer called his art dealer client and says I’ve got some good news and some bad news.  What’s the good news?  Well I talked to your wife and she said she paid $5000 for 2 photos and they could be worth $10M.  What is the bad news?  The pictures are of you having sex with your secretary 
+
+—-
+
+You were late to work today.  Yes, I know.  That’s the 3rd time this week.  Do you know what that means?  It’s Wednesday? 
+
+—-
+
+A husband decided to join his wife for golf for the first time to see what all the fuss was about.  He was getting hot and sweaty and on the 8th hole he collapses from an apparent heart attack.  The wife pulls her phone out of her bag, calls 911 then proceeds to putt out.  The husband is laying there and says what are you doing?  Is anyone going to come?  No worries dear, they found a doctor on the second hole .  Well how long do you think it’ll take him to get here.  No time at all dear, everybody had agreed to let him play through.  
+
+—-
+
+What do you call a Mexican with a flat tire?  Joaquin
+
+—-
+
+A truck full of Vics vapo rub overturned on the highway.  There was no congestion for 8 hours 
+
+—-
+
+All I got for Christmas was a deck of sticky playing cards.  I’m having a hard time dealing with this 
+
+—-
+
+4 gay guys are sitting in a hot tub and all of the sudden a condom starts floating in the water.  Who farted? 
+
+—-
+
+Statistics have shown that 85% of the people in this country masturbate in the shower.  The other 15% sing a very specific song.  Do you know what that song is?  Me neither.   
+
+—-
+
+Bubba went to apply for a job as a lumberjack and the employer asked him if he had any experience.  He said well yeah, I worked for 5 years in the Sahara Forrest.  The employer said you mean the Sahara Desert?  Bubba said well yeah, that’s what it is now. 
+
+—-
+
+My friend just quit his job at the erectile dysfunction center.  He hadn’t gotten a raise in years 
+
+—-
+
+My son was chewing on an electrical cord so I had to ground him.  He’s doing better currently.  Conducting himself better 
+
+—-
+
+I was in the park the other day …this Frisbee looks bigger, the closer it gets… Wondering why.  Then it hit me!
+
+—-
+
+Sometimes I wake up grumpy. Other times I just let her sleep in
+
+—
+
+Do you wanna box for your leftover food?  No thanks but I’ll wrestle you
+for it
+
+—-
+
+Remember when plastic surgery was a taboo subject?  Now you mention botox and nobody raises an eyebrow.
+
+—-
+
+A friend of mine came into a bunch of money which was kinda weird because normally he just uses a sock. 
+
+—-
+
+I’ve been taking viagra for my sunburn but it doesn’t cure it.  It does however keep the sheets off my legs at night 
+
+—-
+
+Do you know why boxers don’t have sex the night before a fight?  Because they don’t like each other.  
+
+—-
+
+My uncle named his dogs rolex and timex.  They’re watch dogs 
+
+—-
+
+Do you know why women close their eyes during sex?  Because they can’t stand to see a man having a good time. 
+
+—-
+
+—-
+
+A man in a confessional confessing his sins to a priest says father, I was at the library near closing time when the rain started pouring down.  I couldn’t really go out in it I would have gotten soaked.  As I waited in the library I got to talking to this really attractive girl and one thing led to another and we ended up having sex in the back room.  Well, that’s unfortunate said the priest, but not the end of the world.  5 hail mary’s on your way out and you will be forgiven.  But that’s not it said the man.  My next door neighbor asked me for some help with her computer and right as I was finishing up it started raining really hard so I decided to stay and visit for awhile.  She started getting friendly with me and the next thing you know we were in bed!  Well, it happens said the priest.  Add 5 more hail marys and you’ll be forgiven.  I’m afraid that’s not the end of it father said the man.  I was at the barber last week getting a haircut just before closing time and it started to rain super hard so my barber, nice guy that he is, let me hang around for a bit.  Well one thing led to another and before you know it we were jerking each other off.  I’m so sorry father, what should I do?  Well my son, I recommend getting the fuck outta here before it starts to rain!  
+
+—-
+
+Flight attendant:  Can I offer you some free head phones?  Passenger:  Sure but how did you know my name was phones?
+
+—-
+If someone from Holland married a phillipino would the children be Jalepenos? 
+—-
+
+Yesterday I opened my water bill and my electric bill at the same time.  I was shocked! 
+
+—-
+
+Why are you carrying a 4’ book around?  It’s a long story 
+
+—-
+
+I saw a man standing on one leg at an ATM.  Confused, I asked him what he was doing.  “Just checking my balance” 
+
+—-
+
+
+
+—-
+
+My wife asked me to put ketchup on the shopping list.  Now I can’t read anything 
+
+—-
+
+
+
+—-
+
+Why do the 7 dwarfs laugh when they play soccer.  The grass tickles their balls
+
+—-
+
+Have you ever tried archery blindfolded?  You don’t know what you’re missing 
+
+—-
+
+The nurse just asked me for a urine, stool and seaman sample.  I just left her my underwear.  
+
+—-
+
+I’ve asked 100 women which shampoo they used while in the shower.   The number 1 answer was how did you get in here?
+
+—-
+
+A man boarded an airplane and took his seat.  As he settled in, he glanced up and saw the most beautiful woman boarding the plane. He soon realized she was heading straight towards his seat. As fate would have it, she took the seat right beside his. Eager to strike up a conversation he blurted out, “Business trip or pleasure?” She turned, smiled and said, “Business. I’m going to the Annual Nymphomaniacs of America Convention in Boston." He swallowed hard. Here was the most gorgeous woman he had ever seen sitting next to him, and she was going to a meeting of nymphomaniacs! Struggling to maintain his composure, he calmly asked, “What’s your business at this convention?” “Lecturer,” she responded. “I use information that I have learned from my personal experiences to debunk some of the popular myths about sexuality.” “Really?” he said. “And what kind of myths are there?” “Well,” she explained, “one popular myth is that African-American men are the most well-endowed of all men, when in fact it is the Native American Indian who is most likely to possess that trait. Another popular myth is that Frenchmen are the best lovers, when actually it is men of Israeli descent who are the best. Suddenly the woman became a little uncomfortable and blushed.. “I’m sorry,” she said, “I shouldn't really be discussing all of this with you. I don’t even know your name.” “Tonto,” the man said, “Tonto Goldstein.”  
+
+
+
+—-
+
+My wife said she’d leave me if I didn’t stop eating pasta.  Now I’m feeling cannelloni. 
+
+—-
+
+Wife:  I watched my first porno today.
+Husband:  Oh yeah? 
+Wife:  Yeah.  I can’t believe how young and thin I was back then 
+
+—-
+
+A guy was recovering from surgery when he felt this horrible pain in his side that persisted for several hours.  He decided to check back in with his surgeon and describe the pain.  The doctor ordered xrays and came back 30 minutes later with some bad news.  He said I’m so sorry but we left a couple of hemostats inside of you when we were closing you up and we’ll need to go back and take them out.  The guy sat there for a minute contemplating the situation.  The doctor asked him what’s on his mind.  He said well, I’ve been weighing it out and I think it’s going to be cheaper if I just give you the money and you go buy a new pair of hemostats. 
+
+—-
+
+What do women and pools have in common?  They both cost a lot of money to maintain for the amount of time you spend inside them 
+
+—-
+
+Elderly couple in church.  Wife says I’ve just let go of a silent fart, what should I do?  Husband says put batteries in your hearing aids 
+
+—-
+
+Australia’s biggest export is boomerangs.  It’s also its biggest import 
+
+—-
+
+Officer came to my door and said he was looking for a man with one eye.  I said use both eyes and you’ll find him a lot faster
+
+—-
+
+A hunter was duck hunting in West Virginia and shot 3 ducks.  He decided that was enough for the day and headed back to his car.  Along the way he was confronted by the game warden.  Game Warden tells him I’m gonna have to check these ducks out so he grabs the first one and sniffs its butt and says “This duck ain’t from West Virginia it’s from Tennessee!  You got a Tennessee license?  The guy reaches in his wallet and pulls out a license from Tennessee.  Game Warden grabs the second duck and sniffs its butt.  This Duck is from Kentucky!  You got a Kentucky license?  Sure do.  Hands him the license.  Game Warden grabs the third duck and sniffs its butt.  This Duck is from Ohio!  You got an Ohio license?  Yup, sure do.  Well you sure get around boy, where you from?  The hunter drops his pants, bends over and says “You tell me, you seem to be the expert.“
+
+—-
+
+Found out grandpa is addicted to viagra.  Nobody is taking it harder than grandma 
+
+—-
+
+What do you call James Bond in a bathtub.  Bubble07
+
+—-
+
+What did the elephant say to the naked man?  How do you breathe out of that little thing 
+
+—-
+
+I recently joined Jehovah’s Witnesses.   I can see it opening a lot of doors for me 
+
+—-
+
+I’m sitting in a bar and two very large women with accents are sitting across from me.  I say “Cool accents, are you two ladies from Scotland?”.  One of them yells “It’s Wales you idiot.”  So I said oh, my bad.  Are you two whales from Scotland?
+
+—-
+
+I tell my husband it turns me on watching him please himself.  It doesn’t but it saves me from having to do it. 
+
+—-
+
+Lance is an uncommon name nowadays, but back in medieval times people were named Lance a Lot.  
+
+—-
+
+What do panties and nail polish have in common?  They both come off with alcohol.
+
+—-
+
+While the Mrs. was cooking breakfast this morning I heard a really loud thud so I went running and found her crashed out on the floor and barely breathing.  I didn’t know what to do, I was in a terrible panic.  But then I remembered The Original Pancake House has an all day breakfast for $7.99
+
+—-
+
+My wife said sex is better on holiday.  I wasn’t expecting to read that on her postcard from Greece 
+
+—-
+
+I’m not a fan of elevator music.  It’s bad on so many levels 
+
+—-
+
+My wife asked me to stop singing I’m a believer by the Monkees.  She said she was super annoyed by it.  At first I thought she was kidding.  But then I saw her face. 
+
+—-
+
+Do you ever watch your husband’s face when you’re doing it?  I did once but he looked really angry.  How come?  Because he was watching from the window.
+
+—-
+
+What's long and hard and full of semen? A submarine!
+
+—-
+
+What's the difference between a tire and 365 used condoms? One's a Goodyear. The other's a great year.
+
+—-
+
+Do you know why Barbie never gets pregnant?  Because Ken comes in a box.
+
+—-
+
+What's the difference between a genealogist and a gynecologist? A genealogist looks up the family tree, a gynecologist looks up the family bush.
+
+—-
+
+What does the receptionist at a sperm bank say as clients leave? "Thanks for coming!"
+
+—-
+
+The last time i had sex things got a little out of hand 
+
+—-
+
+A family's driving behind a garbage truck when a dildo flies out and thumps against the windshield. Embarrassed, and trying to spare her young son's innocence, the mother turns around and says, "Don't worry, dear. That was just an insect." "Wow," the boy replies. "I'm surprised it could get off the ground with a cock like that!"
+
+—-
+
+Who's the most popular guy at the nudist colony? The one who can carry a cup of coffee in each hand and a dozen doughnuts.
+
+—-
+
+I’d rather go through the pain of childbirth again than let you drill in my mouth," the woman told her dentist. He replied, "Well, please make up your mind so I can adjust my chair."
+
+—-
+
+My neighbor has been mad at his wife for sunbathing nude. I personally am on the fence.
+
+—-
+
+A naked man broke into a church. The police chased him around and finally caught him by the organ.
+
+—-
+
+Autopsy club meeting, they decided to do an open Mike 
+
+—-
+
+I’m writing a book on reverse psychology.  Please don’t buy it. 
+
+—-
+
+At my bosses funeral leaning over the casket.  Who’s thinking outside the box now Gary? 
+
+—-
+
+Why isn’t holy water used in vaccines?  Because you’re not supposed to take the lord’s name in vein.  
+
+—-
+
+I just saw a burglar kicking his own door in.  Apparently he was working from home. 
+
+—-
+
+When I was in college I was rejected from every fraternity I applied to because I was circumcised.  Apparently you need to be a complete dick. 
+
+—-
+
+What do you call a french guy wearing sandals?  Phillipe Phillope
+
+—-
+
+I overdosed on viagra the other day.  It was the hardest day of my life 
+
+—-
+
+I tried to climb a really tall tower in France but Eiffell off.  
+
+—-
+
+I just crashed my new Kia.  Now I have Nokia. 
+
+—-
+
+John Travolta tested negative for coronavirus last week.  Turns out it was just Saturday Night Fever. 
+
+—-
+
+My friend Jack claims he can communicate with vegetables.  Yeah Jack and the beans talk. 
+
+—-
+
+What do you call a bullet proof Irishman?  Rick O’Shea
+
+—-
+
+A frog got his DNA tested last night.  Yeah turns out he’s part British part Irish and a tad Pole. 
+
+—-
+
+I created a product that is part laxative but also addresses pain.  I called it Ibepoopin
+
+—-
+
+I got angry last night and threw my keyboard again the wall.  That’s when the shift hit the fan. 
+
+—-
+
+Did you know that Bruce Lee had a vegan brother?  Broco Lee
+
+—-
+
+Do you know how to deal with a sad astronaut?  Just give them some space. 
+
+—-
+
+Waiter:  I see your glass is empty, would you like another one?  Why would I want two empty glasses?
+
+—-
+
+I’m reading a horror book in braille.  Something bad is going to happen.  I can feel it. 
+
+—-
+
+I just deleted all the German names off my iphone.  It’s Hans free now. 
+
+—-
+
+I met my wife on Tinder.  That was awkward 
+
+—-
+
+My internet connection at the farm was really poor so I moved my modem to the barn.  Now we have stable WiFi
+
+—
+
+I joined a gym and told the trainer that I wanted to impress beautiful girls, which machine should I use?  Try the ATM outside.  
+
+—-
+
+I started a job as a security guard and my boss told my to watch the office.  I’m on season 6
+
+—-
+
+What does idk stand for?  I’ve asked multiple people but nobody seems to know. 
+
+—-
+
+I haven’t spoken to my wife in 7 years.  I don’t want to interrupt her 
+
+—-
+
+I failed my drivers test today.  Yeah the instructor asked me what do you do at a red light?  I said usually I check twitter but sometimes facebook 
+
+—-
+
+What is it called when a chameleon can no longer change its color?  A reptile dysfunction 
+
+—-
+
+
+Today my yoga instructor was really drunk which put me in an awkward position 
+
+—-
+
+
+Dating over 50 is like going to the thrift shop and trying to find the least damaged item that doesn’t smell
+
+—-
+
+I wanted to start a new diet.  I feel like I have way too much on my plate right now 
+
+—-
+
+The sweater I purchased was picking up static electricity so I decided to return it.  They gave me another one free of charge. 
+
+—-
+
+I just bought myself a universal remote.  I said to myself this changes everything.
+
+—-
+
+My wife accused me of stealing the thesaurus.  Not only was I shocked, but I was appalled, aghast and dismayed.  
+
+—-
+
+
+x Guy in a coma wakes up , his wife was with him the whole time.  He looks at her and says you were with me when I got fired and supported me, you were with me, when my business failed you were there to support me, when we lost  the house you chose to stay, and when my health failed you were still there.  So you know what?  What dear?  You’re bad luck! 
+
+—-
+
+I was going to date this girl that was really into fitness.  So we made a date at the gym but she didn’t show up.  That’s when I knew we weren’t going to work out.  
+
+—-
+
+x A man goes to see a proctologist about a problem.  The proctologist say I’m glad you came to see me.  It would not have been good to just sit on it. 
+
+—-
+
+x Pro marriage tip.  We go out twice a week and get a nice meal, glass of wine, relax, take in the scenery.   She goes on Mondays, I go on Thursday.  
+
+—-
+
+x There’s a guy going around dipping his testicles into the glitter.  It’s pretty nuts.
+
+—-
+
+Do you know why you shouldn’t date a cross eyed dude?  Because he’ll for sure be seeing someone on the side 
+
+—-
+
+A logger finished his work week and went in to get paid.  The clerk in the office says okay let’s see, we have you down for 194 logs this week.  He says no, actually it should be 195.   The clerk says how can you be so sure?  He says I kept a log.  
+
+—-
+
+What do do if your wife or girlfriend is choking?  Back up a couple inches 
+
+—-
+
+A wife tells her husband she’s calling her coochie “lottery” because you gotta be lucky to hit it.  He says oh, I thought you called it lottery because you’re always scratching it
+
+—-
+
+The air force unit was really tired after its final day of basic training so the master sergeant set up a dancing girl for entertainment that evening at the mess hall.  After her first dance the boys were clapping that could be heard 2 doors down.  She did her next number and stripped down to her panties and bra and the clapping got much louder!  In her next number she took her top off and the clapping and cheering got so loud the master sergeant had to come by and tell the crew to keep it down.  During her final number she stripped completely naked but the crowd was quiet as a mouse.  The master sergeant suspected something was up so he came over again and said what,  no applause?  An airman replied that’s hard to do with only one hand!
+
+—-
+
+I got a job in my first porno.  Unfortunately I’m the husband leaving for work.  
+
+—-
+
+Seniors GPS.  Not only tells me how to get to my destination it tells me why I wanted to get there.
+
+—-
+
+A guy walks up to a woman and says hey can I bite your boobs for $5000?  She reluctantly agrees, unbuttons her shirt and he sticks his head between them for 10 minutes.  Finally she says aren’t you going to bite them?  He says no, it’s too expensive 
+
+—-
+
+A pirate walks into a bar with a giant steering wheel attached to his pants.  The bartender takes one look at him and says did you know you have a steering wheel attached to your pants?  The pirate says Arrrrgh, it’s driving me nuts. 
+
+—
+
+A group of Monks had been studying for years and finally reached ordination day but there was a final test.  They were told to strip nude and a bell was attached to each of their private parts.  Then a naked woman was to dance in front of them and their bells could not go off or they would fail for not having reached a level of purity.  The naked woman danced in front of the first monk.  Nothing.  All the way down the line, nothing.  Then on the last monk his bell went off so hard that it came loose and fell to the ground.  He bent over to pick it up and all the other bells went jing-a-ling
+
+—-
+
+What do you call a girl who doesn’t give head?   An Uber
+
+—-
+
+Golfer sees funeral procession.  Buddies: Didn’t know you were so reverent about these things… Least I could do I was married to her for 40 years. 
+
+—-
+
+Woman offers ticket to play to man who had a nose bleed ticket… Her husband had passed away.  No other family members could go?  They are all at the funeral.
+
+—-
+
+Do you know why it isn’t women who propose?  Because the minute she gets down on one knee he starts to unzip his pants 
+
+—-
+
+—-
+
+I just found out the company that makes yard sticks isn’t going to be making them any longer 
+
+—-
+
+Juan and Amol are twins but their mother only kept a picture of Juan in her wallet because if you’ve seen Juan then you’ve seen Amol. 
+
+—-
+
+How do you deal with a fear of speed bumps?  You slowly get over it
+
+—-
+
+—-
+
+A lady goes to the doctor and says doctor please help me.  I’ve been having indigestion and it’s causing me to fart all the time.  Fortunately they don’t smell or anything but even since I’ve been here I’ve farted 4 times.  The doc says here, take these pills and check back in.  A few days later the lady calls and says doc, I took the pills but I’m still farting!  And now they even stink really bad, it’s horrible!  He says well now that we’ve cleared up your sinuses we can move onto the next problem.  
+
+—-
+
+My teachers told me I was a procrastinator and I’d never amount to  anything.  I said just you wait
+
+—-
+
+Why do you never see elephants hiding in trees?  Because they are so good at it
+
+—-
+
+My wife says I’m the cheapest man in the world.  I’m not buying it
+
+—-
+
+x The CEO of Ikea has become the prime minister of Finland.  Says he’s very excited to start assembling his cabinet 
+
+—-
+
+I think we should get rid of satellite radio.  You can’t be serious?
+
+—-
+
+x A blonde gets a job as a middle school pe teacher and notices all the boys are running around kicking the soccer  ball except one.  She decided to go talk to him.  You know you can go play with the other boys.  Don’t be shy.  It’s probably best if I stay here.  Why is that?   Because I’m the goalie
+
+—-
+
+Did you hear about the mathematician who had a fear of negative numbers?  He’ll stop at nothing to avoid them 
+
+—- 
+
+
+Guy and his wife out Christmas shopping.  He gets bored and takes off.  She finishes about an hour later and can’t find him.  She calls and says “where are you?”. Do you remember that jewelry store we went in about 10 years ago and there was a necklace that you loved but we couldn’t afford it so I told you I’d buy it for you some day?  Yes!  She says getting choked up!  Well I’m in the bar right next to that place 
+
+—-
+
+Hey mom there’s going to be a small get together this Friday at school.  Yeah?  How small?  It’s just you and me and the principal 
+
+—-
+
+—-
+
+What do you call a librarian with a sunburn?  Well red. 
+
+—- 
+
+Did you hear about the big lego sale?  
+People were lining up for blocks
+
+—-
+
+Train.  Guy walks into passenger car.  Is there a Catholic priest on board?  No reply.  A little later is there a protestant vicor on board?  no reply.  Baptist ministrer stands up and identifies himself and asked if he could be of service.  I don’t think so we’re looking for a cork screw
+
+—-
+
+Why did the golfer bring two pairs of pants to the tournament?  In case he got a hole in one 
+
+—-
+
+Most Heart pumping thing your wife has said to you during sex?  Honey I’m home 
+
+——————
+
+I arranged a 3-some a few weeks ago.
+…
+There were 2 no-shows but I still had a pretty good time 
+
+—————
+
+(Indian comedian). 
+
+I came to this country 20 years ago with just $9 in my pocket…
+$100,000 in the bank but just $9 in my pocket.  
+
+—-
+
+I was raised as an only child, which I think was really hard on my sisters
+
+
+Billy, 5 birds, one shot how many left?
+None, flew away.  I like how you think 
+Asks teacher 3 women, one who can suck, bite, lick.  Which one married? The one with the wedding ring but I like how you think 
+
+Nun in confession, confesses swearing on golf course.  Hit perfect shot on par 3 but a hawk steals her ball in mid air.  (Didn’t swear then).  Then the hawk drops the ball over the cart path (Didn’t swear then), then the ball bounces off the cart path and lands 3 feet from the hole.  You missed the fucking putt didn’t you?
+
+Why do ducks have feathers?
+To cover up their butt quacks
+
+Denise, De nephew 
+
+A man on his deathbed says i have one last wish when I die - you should marry Joe.  
+But I thought you hated Joe.
+I do
+
+I was going to tell you a story about my pecker but it’s entirely too long
+
+Will either have to lay you or jack off
+Why don’t you jack off, I have a headache 
+
+Grandpa comes over, sees bottle of viagra , asks his son if he can have some.   Well they are kind of expensive dod.  How much?  About $10/pill.  I’m still interested.  I’ll put the $ under your pillow. 
+
+Next day kid finds $110 inder his pillow.  You shouldn’t have taken so much.  I only took one, the $100 is from grandma 
+
+Mom, where’s dad?
+We got into an argument and he’s in the garden 
+I looked and he’s not there 
+Did you dig?
+
+Hey babe, if I die what would you do with my fishing gear?
+Probably sell it
+You don’t think the next guy could use it?
+He’s left handed
+
+Why did the dwarf get kicked out of the nudist colony?  For sticking his nose in eveyone’s business.
+
+Saw my husband on the scale this morning holding his stomach in.  I said that’s not going to help.  He yes it is I can see the numbers better 
+
+Nun in confessional.  Keep secret?  I don’t wear panties under my habit.  
+5 hail marys, 5 our fathers, 5 cartwheels on your way to the alter 
+
+Teacher looking for sentence with word fascinate.  
+Sarah: The movie Fascinating 
+Gail: Fascinated
+Johnny: Aunt has a blouse with 10 buttons but her tits are so big she can only Fasten Eight
+
+Doc says average size penis
+I didn’t ask he just told me
+Out of all my patients your penis is average size
+But you have to remember I’m a pediatrician 
+
+Guy cuddling up to his wife in bed… why’d you stop?  I found the remote.
+
+Woman in coma.  Responding to spong bath.  Theory is that she might respond to oral sex so ask husband about it.  ok.  woman found dead.  I think she might have choked 
+
+  My girlfriend broke up with me because she thought I was being un-american .. but honestly I saw it coming from a kilometer away
+Son asks his Indian chief father how he names his children
+
+Teacher asks kids if they know a 12 letter word and can spell it.  Little Johnny M-a-s-t-u-r-b-a-t-i-o-n
+Wow, that’s a mouth full.  
+No, that’s blow job 
+

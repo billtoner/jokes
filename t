@@ -1,0 +1,3 @@
+  tags: 
+    - corny
+  clean: true
