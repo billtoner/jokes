@@ -31,7 +31,7 @@
   clean: true
 
 - name: joke
-  desc: Women say men have trust issues, but when you put your most prized possession in between a set of sharp teeth, that's trust! 
+  desc: Women say men have trust issues, but when you put your most prized possession in between a set of sharp teeth, that is trust! 
   tags:
     - women
     - sex
@@ -46,17 +46,17 @@
   clean: false
 
 - name: joke
-  desc: A snail slithers up to the bar on NY's Eve and asks for a drink.  The bartender says yuck, a snail, and flicks him out the window.  A year goes by and it's NY's Eve again and a snail slithers up to the bar and says what the fuck did you do that for?  
+  desc: A snail slithers up to the bar on NYs Eve and asks for a drink.  The bartender says yuck, a snail, and flicks him out the window.  A year goes by and it is NYs Eve again and a snail slithers up to the bar and says what the fuck did you do that for?  
   tags: 
     - bar
     - snail
-  clean: yes
+  clean: true
 
 - name: joke
-  desc: Guy goes to the doctor, doc says you’re in bad shape, I don’t think you’re gonna make it.  He says anything I can do?  Yes, the doctor says, take 3-4 mud baths a day.  How’s that going to help me?  It’ll get you used to the dirt.  
+  desc: Guy goes to the doctor, doc says you are in bad shape, I do not think you are gonna make it.  He says anything I can do.  Yes, the doctor says, take 3-4 mud baths a day.  How is that going to help me.  It will get you used to the dirt.  
   tags:
     - doctor
-    clean: true
+  clean: true
 
 - name: joke
   desc: I quit my job at the helium factory.  I won’t be spoken to in that tone! 
@@ -130,8 +130,8 @@
   clean: false
 
 - name: joke
-  desc: My wife dropped the laundry basket.  She’s still mad at me because I just stood there and .. watched it unfold.  
-  tags; 
+  desc: My wife dropped the laundry basket.  She is still mad at me because I just stood there and watched it unfold.  
+  tags: 
     - corny
     - wife
   clean: true
@@ -517,13 +517,13 @@
   clean: true
 
 - name: joke
-  desc: I’m not buying anything with velcro ever again.  Total rip off
+  desc: I am not buying anything with velcro ever again.  Total rip off
   tags: 
     - corny
   clean: true
 
 - name: joke
-  desc: Waiter:  Do you wanna box for your leftovers?  Me:  No but I will wrestle you for them 
+  desc: Waiter say Do you wanna box for your leftovers  No but I will wrestle you for them 
   tags: 
     - waiter 
     - corny
@@ -660,14 +660,14 @@
   clean: true
 
 - name: joke
-  desc: Three guys were at a bar swapping stories.  One fellow says I'll bet you I'm the tallest man in the world! The second fellow says I'll bet you that I'm the fastest man in the world!  The third fellow says I'll bet you I have the smallest dick in the world!  They agree to send their data to the Guiness Book of World Records and bring back certificates.  Two weeks go buy and they meet again.  The runner and the tall guy show their certificates.  The third fellow says Who is this Trump fellow?
+  desc: Three guys were at a bar swapping stories.  One fellow says I bet you I am the tallest man in the world! The second fellow says I bet you that I am the fastest man in the world!  The third fellow says I bet you I have the smallest dick in the world!  They agree to send their data to the Guiness Book of World Records and bring back certificates.  Two weeks go buy and they meet again.  The runner and the tall guy show their certificates.  The third fellow says Who is this Trump fellow?
   tags: 
     - corny
     - bet 
   clean: false
 
 - name: joke
-  desc: My boss:  You are the worst train operator ever.  How many times have you derailed in the past year?  I don’t know I’ve lost track
+  desc: My boss says You are the worst train operator ever.  How many times have you derailed in the past year?  I don’t know I’ve lost track
   tags: 
     - work
     - corny
@@ -758,7 +758,7 @@
   clean: true
 
 - name: joke
-  desc: Eye Dr:  Your test results just came back. Me:  Can I see them? Eye Dr:  Probably not 
+  desc: Eye Dr says Your test results just came back. Can I see them? Eye Dr says probably not 
   tags: 
     - doctor
     - corny
@@ -772,7 +772,7 @@
   clean: false
 
 - name: joke
-  desc: Female see interviewer: I have 3 openings. Guy: I know 
+  desc: Female see interviewer saysI have 3 openings. Guy says I know 
   tags: 
     - sex
     - job
@@ -930,11 +930,12 @@
   clean: false
 
 - name: joke
-  desc: Flight attendant:  Can I offer you some free head phones?  Passenger:  Sure but how did you know my name was phones?
+  desc: Flight attendant says can I offer you some free head phones?  Passenger says Sure but how did you know my name was phones?
   tags: 
     - sex
     - airplane
   clean: true
+
 - name: joke
   desc: If someone from Holland married a phillipino would the children be Jalepenos? 
   tags: 
@@ -995,14 +996,14 @@
   clean: false
 
 - name: joke
-  desc: A man boarded an airplane and took his seat.  As he settled in, he glanced up and saw the most beautiful woman boarding the plane. He soon realized she was heading straight towards his seat. As fate would have it, she took the seat right beside his. Eager to strike up a conversation he blurted out, “Business trip or pleasure?” She turned, smiled and said, “Business. I’m going to the Annual Nymphomaniacs of America Convention in Boston." He swallowed hard. Here was the most gorgeous woman he had ever seen sitting next to him, and she was going to a meeting of nymphomaniacs! Struggling to maintain his composure, he calmly asked, “What’s your business at this convention?” “Lecturer,” she responded. “I use information that I have learned from my personal experiences to debunk some of the popular myths about sexuality.” “Really?” he said. “And what kind of myths are there?” “Well,” she explained, “one popular myth is that African-American men are the most well-endowed of all men, when in fact it is the Native American Indian who is most likely to possess that trait. Another popular myth is that Frenchmen are the best lovers, when actually it is men of Israeli descent who are the best. Suddenly the woman became a little uncomfortable and blushed.. “I’m sorry,” she said, “I shouldn't really be discussing all of this with you. I don’t even know your name.” “Tonto,” the man said, “Tonto Goldstein.”  
+  desc: A man boarded an airplane and took his seat.  As he settled in, he glanced up and saw the most beautiful woman boarding the plane. He soon realized she was heading straight towards his seat. As fate would have it, she took the seat right beside his. Eager to strike up a conversation he blurted out, “Business trip or pleasure?” She turned, smiled and said, “Business. I’m going to the Annual Nymphomaniacs of America Convention in Boston." He swallowed hard. Here was the most gorgeous woman he had ever seen sitting next to him, and she was going to a meeting of nymphomaniacs! Struggling to maintain his composure, he calmly asked, “What’s your business at this convention?” “Lecturer,” she responded. “I use information that I have learned from my personal experiences to debunk some of the popular myths about sexuality.” “Really?” he said. “And what kind of myths are there?” “Well,” she explained, “one popular myth is that African-American men are the most well-endowed of all men, when in fact it is the Native American Indian who is most likely to possess that trait. Another popular myth is that Frenchmen are the best lovers, when actually it is men of Israeli descent who are the best. Suddenly the woman became a little uncomfortable and blushed.. “I’m sorry,” she said, “I should not really be discussing all of this with you. I don’t even know your name.” “Tonto,” the man said, “Tonto Goldstein.”  
   tags: 
     - sex
   clean: false
 
 
 - name: joke
-  desc: Wife:  I watched my first porno today.  Husband:  Oh yeah?  Wife:  Yeah.  I can’t believe how young and thin I was back then 
+  desc: Wife says I watched my first porno today.  Husband says Oh yeah?  Wife say Yeah.  I can’t believe how young and thin I was back then 
   tags: 
     - sex
     - wife
@@ -1134,7 +1135,7 @@
   clean: false
 
 - name: joke
-  desc: What's long and hard and full of semen? A submarine!
+  desc: What is long and hard and full of semen? A submarine!
   tags: 
     - sex
   clean: false
@@ -1318,7 +1319,7 @@
   clean: true
 
 - name: joke
-  desc: Waiter:  I see your glass is empty, would you like another one?  Why would I want two empty glasses?
+  desc: Waiter says  I see your glass is empty, would you like another one?  Why would I want two empty glasses?
   tags: 
     - waiter
     - corny
@@ -1538,7 +1539,7 @@
   clean: false
 
 - name: joke
-  desc: Golfer sees funeral procession.  Buddies: Didn’t know you were so reverent about these things… Least I could do I was married to her for 40 years. 
+  desc: Golfer sees funeral procession.  Buddies say Didn’t know you were so reverent about these things… Least I could do I was married to her for 40 years. 
   tags: 
     - golf
     - wife
