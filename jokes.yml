@@ -1132,114 +1132,179 @@
     - sex
   clean: false
 
-—-
+- name: joke
+  desc: Do you know why Barbie never gets pregnant?  Because Ken comes in a box.
+  tags: 
+    - sex
+  clean: false
 
-Do you know why Barbie never gets pregnant?  Because Ken comes in a box.
+- name: joke
+  desc: What's the difference between a genealogist and a gynecologist? A genealogist looks up the family tree, a gynecologist looks up the family bush.
+  tags: 
+    - doctor
+    - women
+    - sex
+  clean: false
 
-—-
+- name: joke
+  desc: What does the receptionist at a sperm bank say as clients leave? "Thanks for coming!"
+  tags: 
+    - sex
+    - doctor
+  clean: false
 
-What's the difference between a genealogist and a gynecologist? A genealogist looks up the family tree, a gynecologist looks up the family bush.
+- name: joke
+  desc: The last time i had sex things got a little out of hand 
+  tags: 
+    - sex
+  clean: false
 
-—-
+- name: joke
+  desc: A family's driving behind a garbage truck when a dildo flies out and thumps against the windshield. Embarrassed, and trying to spare her young son's innocence, the mother turns around and says, "Don't worry, dear. That was just an insect." "Wow," the boy replies. "I'm surprised it could get off the ground with a cock like that!"
+  tags: 
+    - sex
+  clean: false
 
-What does the receptionist at a sperm bank say as clients leave? "Thanks for coming!"
+- name: joke
+  desc: Who's the most popular guy at the nudist colony? The one who can carry a cup of coffee in each hand and a dozen doughnuts.
+  tags: 
+    - sex
+  clean: false
 
-—-
+- name: joke
+  desc: I’d rather go through the pain of childbirth again than let you drill in my mouth," the woman told her dentist. He replied, "Well, please make up your mind so I can adjust my chair."
+  tags: 
+    - doctor
+    - women
+    - sex
+  clean: false
 
-The last time i had sex things got a little out of hand 
+- name: joke
+  desc: My neighbor has been mad at his wife for sunbathing nude. I personally am on the fence.
+  tags: 
+    - wife
+    - sex
+  clean: false
 
-—-
+- name: joke
+  desc: A naked man broke into a church. The police chased him around and finally caught him by the organ.
+  tags: 
+    - religion
+    - sex
+  clean: false
 
-A family's driving behind a garbage truck when a dildo flies out and thumps against the windshield. Embarrassed, and trying to spare her young son's innocence, the mother turns around and says, "Don't worry, dear. That was just an insect." "Wow," the boy replies. "I'm surprised it could get off the ground with a cock like that!"
+- name: joke
+  desc: Autopsy club meeting, They decided to do an open Mike 
+  tags: 
+    - corny
+  clean: true
 
-—-
+- name: joke
+  desc: I’m writing a book on reverse psychology.  Please don’t buy it. 
+  tags: 
+    - corny
+  clean: true
 
-Who's the most popular guy at the nudist colony? The one who can carry a cup of coffee in each hand and a dozen doughnuts.
+- name: joke
+  desc: At my bosses funeral leaning over the casket.  Who’s thinking outside the box now Gary? 
+  tags: 
+    - funeral
+  clean: true
 
-—-
+- name: joke
+  desc: Why isn’t holy water used in vaccines?  Because you’re not supposed to take the lord’s name in vein.  
+  tags: 
+    - religion
+  clean: true
 
-I’d rather go through the pain of childbirth again than let you drill in my mouth," the woman told her dentist. He replied, "Well, please make up your mind so I can adjust my chair."
+- name: joke
+  desc: I just saw a burglar kicking his own door in.  Apparently he was working from home. 
+  tags: 
+    - corny
+  clean: true
 
-—-
+- name: joke
+  desc: When I was in college I was rejected from every fraternity I applied to because I was circumcised.  Apparently you need to be a complete dick. 
+  tags: 
+    - language
+  clean: false
 
-My neighbor has been mad at his wife for sunbathing nude. I personally am on the fence.
+- name: joke
+  desc: What do you call a french guy wearing sandals?  Phillipe Phillope
+  tags: 
+    - corny
+  clean: true
 
-—-
+- name: joke
+  desc: I overdosed on viagra the other day.  It was the hardest day of my life 
+  tags: 
+    - sex
+    - viagra 
+  clean: false
 
-A naked man broke into a church. The police chased him around and finally caught him by the organ.
+- name: joke
+  desc: I tried to climb a really tall tower in France but Eiffell off.  
+  tags: 
+    - corny
+  clean: true
 
-—-
+- name: joke
+  desc: I just crashed my new Kia.  Now I have Nokia. 
+  tags: 
+    - corny
+  clean: true
 
-Autopsy club meeting, they decided to do an open Mike 
+- name: joke
+  desc: John Travolta tested negative for coronavirus last week.  Turns out it was just Saturday Night Fever. 
+  tags: 
+    - corny
+  clean: true
 
-—-
+- name: joke
+  desc: My friend Jack claims he can communicate with vegetables.  Yeah Jack and the beans talk. 
+  tags: 
+    - corny
+  clean: true
 
-I’m writing a book on reverse psychology.  Please don’t buy it. 
+- name: joke
+  desc: What do you call a bullet proof Irishman?  Rick O’Shea
+  tags: 
+    - corny
+    - irish
+  clean: true
 
-—-
+- name: joke
+  desc: A frog got his DNA tested last night.  Yeah turns out he’s part British part Irish and a tad Pole. 
+  tags: 
+    - corny
+    - irish
+  clean: true
 
-At my bosses funeral leaning over the casket.  Who’s thinking outside the box now Gary? 
+- name: joke
+  desc: I created a product that is part laxative but also addresses pain.  I called it Ibepoopin
+  tags: 
+    - corny
+  clean: true
 
-—-
+- name: joke
+  desc: I got angry last night and threw my keyboard again the wall.  That’s when the shift hit the fan. 
+  tags: 
+    - corny
+  clean: true
 
-Why isn’t holy water used in vaccines?  Because you’re not supposed to take the lord’s name in vein.  
+- name: joke
+  desc: Did you know that Bruce Lee had a vegan brother?  Broco Lee
+  tags: 
+    - corny
+  clean: true
 
-—-
+- name: joke
+  desc: Do you know how to deal with a sad astronaut?  Just give them some space. 
+  tags: 
+    - corny
+  clean: true
 
-I just saw a burglar kicking his own door in.  Apparently he was working from home. 
-
-—-
-
-When I was in college I was rejected from every fraternity I applied to because I was circumcised.  Apparently you need to be a complete dick. 
-
-—-
-
-What do you call a french guy wearing sandals?  Phillipe Phillope
-
-—-
-
-I overdosed on viagra the other day.  It was the hardest day of my life 
-
-—-
-
-I tried to climb a really tall tower in France but Eiffell off.  
-
-—-
-
-I just crashed my new Kia.  Now I have Nokia. 
-
-—-
-
-John Travolta tested negative for coronavirus last week.  Turns out it was just Saturday Night Fever. 
-
-—-
-
-My friend Jack claims he can communicate with vegetables.  Yeah Jack and the beans talk. 
-
-—-
-
-What do you call a bullet proof Irishman?  Rick O’Shea
-
-—-
-
-A frog got his DNA tested last night.  Yeah turns out he’s part British part Irish and a tad Pole. 
-
-—-
-
-I created a product that is part laxative but also addresses pain.  I called it Ibepoopin
-
-—-
-
-I got angry last night and threw my keyboard again the wall.  That’s when the shift hit the fan. 
-
-—-
-
-Did you know that Bruce Lee had a vegan brother?  Broco Lee
-
-—-
-
-Do you know how to deal with a sad astronaut?  Just give them some space. 
-
+left off here 
 —-
 
 Waiter:  I see your glass is empty, would you like another one?  Why would I want two empty glasses?
